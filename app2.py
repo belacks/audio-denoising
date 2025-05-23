@@ -9,7 +9,7 @@ from io import BytesIO
 import time
 
 # --- Konfigurasi Model ---
-MODEL_PATH = os.path.join("saves", "GRUUNet2-dari_tult2", "checkpoint.pth")
+MODEL_PATH = os.path.join("saves/GRUUNet2-dari_tult2/checkpoint.pth")
 TARGET_SR = 48000
 MODEL_EXPECTS_CHANNELS = 1
 
