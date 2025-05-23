@@ -1,0 +1,25 @@
+# Virtual Environment
+venv/
+*/venv/
+env/
+*/env/
+.env
+*/.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE/Editor specific
+.vscode/
+.idea/
+*.DS_Store
+
+# Streamlit cache/config (jika ada yang spesifik dan tidak perlu di-share)
+.streamlit/
+
+# File sensitif (jika ada, JANGAN pernah push API key atau password)
+# credentials.json
+# *.key
