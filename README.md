@@ -6,9 +6,9 @@ A Real-time Voice Cleaning application using a PyTorch deep learning model (GRUU
 (Replace the placeholder above with a link to a screenshot or GIF demo of your application)
 ✨ Key Features
 
-**    Real-time Voice Cleaning: Processes audio from the microphone directly.
+*    Real-time Voice Cleaning: Processes audio from the microphone directly.
 
-**    GRUUNet2 Deep Learning Model: Utilizes a U-Net architecture with GRU cells for sequential processing and effective denoising.
+*    GRUUNet2 Deep Learning Model: Utilizes a U-Net architecture with GRU cells for sequential processing and effective denoising.
 
 *    Interactive User Interface: Built with Streamlit for ease of use, including start/stop controls.
 
